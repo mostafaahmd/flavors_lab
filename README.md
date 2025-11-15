@@ -1,8 +1,13 @@
 # 📱 Flavors Lab
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<p align="left">
+  <img src="assets/dev.png" width="140" alt="Dev Version"/>
+  <img src="assets/prod.png" width="140" alt="Production Version"/>
+</p>
+
+
+
+
 
 > A production-ready Flutter multi-environment architecture using **Flutter Flavors** for Dev & Production.
 
